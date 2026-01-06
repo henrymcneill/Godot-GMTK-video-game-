@@ -25,20 +25,20 @@ scrolling_screen_percent = 4/10 #il faut que le resultat final soit divisible pa
 #importation des images dans le programme
 #le .convert_alpha() convertit l'image dans le meme format de pixel
 #que la fenetre pygame
-background_image = pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/background.png").convert_alpha()
-platform_bloc = pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/plateforme_bloc.png").convert_alpha()
-sprite_droite = [pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/sprite_droite_1.png").convert_alpha(),
-                 pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/sprite_droite_2.png").convert_alpha(),
-                 pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/sprite_droite_3.png").convert_alpha(),
-                 pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/sprite_droite_4.png").convert_alpha()]
-sprite_gauche = [pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/sprite_gauche_1.png").convert_alpha(),
-                 pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/sprite_gauche_2.png").convert_alpha(),
-                 pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/sprite_gauche_3.png").convert_alpha(),
-                 pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/sprite_gauche_4.png").convert_alpha()]
-game_over = pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/game_over.png").convert_alpha()
-coeur= pygame.image.load("/home/henry.mcnll/USR/OC/S7_scrolling/images/coeur_4.png").convert_alpha()
-music= pygame.mixer.Sound("/home/henry.mcnll/USR/OC/S7_scrolling/music_backgroung.mp3")
-footsteps= pygame.mixer.Sound("/home/henry.mcnll/USR/OC/S7_scrolling/footsteps.mp3")
+background_image = pygame.image.load("images/background.png").convert_alpha()
+platform_bloc = pygame.image.load("images/plateforme_bloc.png").convert_alpha()
+sprite_droite = [pygame.image.load("images/sprite_droite_1.png").convert_alpha(),
+                 pygame.image.load("images/sprite_droite_2.png").convert_alpha(),
+                 pygame.image.load("images/sprite_droite_3.png").convert_alpha(),
+                 pygame.image.load("images/sprite_droite_4.png").convert_alpha()]
+sprite_gauche = [pygame.image.load("images/sprite_gauche_1.png").convert_alpha(),
+                 pygame.image.load("images/sprite_gauche_2.png").convert_alpha(),
+                 pygame.image.load("images/sprite_gauche_3.png").convert_alpha(),
+                 pygame.image.load("images/sprite_gauche_4.png").convert_alpha()]
+game_over = pygame.image.load("images/game_over.png").convert_alpha()
+coeur= pygame.image.load("images/coeur_4.png").convert_alpha()
+music= pygame.mixer.Sound("music_backgroung.mp3")
+footsteps= pygame.mixer.Sound("footsteps.mp3")
 #déplacement de sprite
 sprite_pos_x = 0
 sprite_pos_y = -64*3 +WINDOW_HEIGHT
