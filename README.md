@@ -4,14 +4,15 @@ After downloading the files from this Github page, I am only able to fully open 
 
 I currently have Godot at version 4.4.1
 
-This github page includes the code of the video **game on Sysiphus** (**Ascent from the depths**) submitted to the **2025's GMTK game jame on itch.io**. The working game on the browser can be accessed through this link: https://henry-mcneill.itch.io/ascent-from-the-depths
+This github page includes the code of the video **game on Sysiphus** (**Ascent from the depths**) submitted to the **2025's GMTK game jam on itch.io**. The working game on the browser can be accessed through this link: https://henry-mcneill.itch.io/ascent-from-the-depths
 or alternatively, you can research "Ascent from the Depths" on itch.io
 
+Moreover, you can access the comments left by developpers and results of my GMTK game jam participation in the followiung link: https://itch.io/jam/gmtk-2025/rate/3782004
 
 
 Credits: 
 
-H_McNeill - Programmer, Game & Music Designer
+Henry McNeill - Programmer, Game & Music Designer
 
 
 External assets: 
