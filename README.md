@@ -1,5 +1,5 @@
 **IMPORTANT**
-In the "ALL OTHER CODING PROJECTS" I uploaded a second time all of my coding projects (which is the same code I sent in the media of the maker portfolio, except that it is in the right formats like .py, instead of the .pdf formats I sent). They are all working versions of my projects.
+In the "ALL OTHER CODING PROJECTS" I uploaded a second time all of my coding projects (which is the same code I sent in the media of the maker portfolio, except that it is in the right formats like .py, instead of the .pdf formats I sent). They are all working versions of my projects. I have also included previous versions of each code, if it may be interesting to have.
 
 
 **MOREOVER**
