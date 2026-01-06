@@ -1,11 +1,9 @@
-This githuib page includes the code of the video game on Sysiphus (Ascent from the depths) submitted to the 2025 GMTK game jame on itch.io. The working game can be accessed through this link: https://henry-mcneill.itch.io/ascent-from-the-depths
-or alternatively, you can research "Ascent from the Depths" on itch.io
-
 **IMPORTANT**
-I am only able to fully open my Godot project when I used the compressed version. Otherwise, the project does not fully open. I still added both compressed and uncompressed versions if they are needed though.
+After downloading the files from this Github page, I am only able to fully open and run the **compressed** (.zip) version of my Godot project. The second **uncompressed** version of the project that is on the Github does not totally work; I am not able to fully open the project. I still added both **compressed** and **uncompressed** versions if they are needed though.
+(This issue is probably due to the fact that some of the files of the uncompressed version of the code is lost/deleted when submitted to Github, however, I believe that we can still make it fully work afterwards. I just don't know how to do it)
 
-
-
+This githuib page includes the code of the video **game on Sysiphus** (**Ascent from the depths**) submitted to the **2025 GMTK game jame on itch.io**. The working game on the browser can be accessed through this link: https://henry-mcneill.itch.io/ascent-from-the-depths
+or alternatively, you can research "Ascent from the Depths" on itch.io
 
 
 
