@@ -1,22 +1,4 @@
-This video game is based on the famous Greek/Roman Myth of Sisyphus. He angered the gods by tricking them and trying to escape death. As punishment, he was sentenced to push a boulder up a mountain in hell. But every time he got close to the top, the enchanted boulder would roll back down. He was forced to repeat this task forever, to eternity.
-
-On top of the "looping" curse, another element that fits the theme is the giant boulder that keeps on spinning :)
-
-
-
-Controls:
-
-[Tab] or [t key] to go to settings
-[WASD keys] or [Arrow keys] to move 
-[Space] to jump
-[r key] to reset
-[escape key] to escape
-
-
-This is a submission for the GMTK Game Jam and is my first jam ever! Thanks for playing!
-
-Many thanks to Mark Brown for organizing yet another fantastic jam. Looking forward to seeing you all again next year!
-
+This githuib page includes the code of the video game on Sysiphus (Ascent from the depths) submitted to the GMTK game jam that I have made. The working game can be accessed through this link: https://henry-mcneill.itch.io/ascent-from-the-depths
 
 
 Credits: 
